@@ -1,0 +1,5 @@
+Praktikum 1 dimulai dengan menginstall software visual studio code (VS Code), Python, Git bash dan Git hub.
+Kemudian juga membuat akun kaggle untuk mengunduh dataset yang akan dibutuhkan, yang pada praktikum pertama ini baru memulai untuk membuat akun nya.
+Git bash yang telah di install digunakan untuk clone antara git hub dan PC. Sehingga dapat mengunduh repository pada Git hub.
+Python sendiri digunakan untuk menjalankan sebuah pemrograman yang di running di VS Code
+Pada praktikum ini dilakukan percobaan running sebuah program pada software visual studio code yang outputnya berupa deteksi warna secara real time seperti warna hijau, biru, kuning dan merah. Output berupa deteksi warna tersebut akan ditampilkan melalui kamera.
